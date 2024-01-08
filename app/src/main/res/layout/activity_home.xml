@@ -99,12 +99,7 @@
                         android:gravity="left|center"
                         android:drawableStart="@drawable/minilogo2"/>
 
-                    <Button
-                        android:id="@+id/button"
-                        android:layout_width="match_parent"
-                        android:layout_height="wrap_content"
-                        android:text="Button"
-                        android:background="#805555"/>
+
                 </LinearLayout>
             </LinearLayout>
 
